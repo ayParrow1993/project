@@ -16,7 +16,7 @@ DEDUPE_NEWS_TASK_QUEUE_NAME = "tap_news_scrape_news_task_queue"
 
 SLEEP_TIME_IN_SECONDS = 2
 
-NEWS_TABLE_NAME = "news-test"
+NEWS_TABLE_NAME = "news_test"
 SAME_NEWS_SIMILARITY_THRESHOLD = 0.9
 
 logger_format = '%(asctime)s - %(message)s'
